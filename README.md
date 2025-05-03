@@ -2,6 +2,8 @@
 
 Project Title: Home Pharmacy 
 
+Project ID: Y1-2024-25-G74
+
 Team Members: Aryan Nayak, Ashutosh Kumar Pandey, Divyanshu Deep
 
 Project Description: Website built to help people unable to leave home due to any sickness to get their medicines by supplying common medicine on website
